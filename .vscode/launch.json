@@ -5,7 +5,7 @@
             "name": "Launch Main",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/src/chapter-1/section-5-1/a.out",
+            "program": "${workspaceFolder}/src/chapter-1/section-2/a.out",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
